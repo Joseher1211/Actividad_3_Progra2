@@ -1,0 +1,40 @@
+body{
+    background:  url(../media/fondo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#Titulos{
+    background-size: cover; 
+    background-color: rgba(255, 255, 255, 0.514);
+    width: 700px;
+    color: #000000;
+    margin-left: 405px;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+#Imagenes{
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10%;
+}
+
+#Parrafos{
+    background-size: cover; 
+    background-color: rgba(255, 255, 255, 0.514);
+    width: 700px;
+    margin-left: 405px;
+    padding: 50px;
+    border-radius: 8px;
+    font-size: 125%;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#Imagen{
+    width: 700px;
+    margin-left: 405px;
+    padding: 50px;
+    border-radius: 15%; 
+}
